@@ -6,6 +6,7 @@ This is a PHP-based project simulating a cloud kitchen service.
 - Product portfolio display
 - Order system with COD/Online payment options
 - Special of the Day display logic
+- Search products by name
 - Order history and reordering
 
 ## 🧑‍🍳 Admin View
