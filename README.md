@@ -22,3 +22,11 @@ Displays:
 - HTML, CSS, JavaScript
 - SQLite
 - XAMPP (Local Server)
+
+## 📸 Screenshots 
+
+
+## 🔧 How to Run
+1. Install XAMPP
+2. Place files in `htdocs/fastandfeast/`
+3. Start Apache, go to `http://localhost/fastandfeast/`
